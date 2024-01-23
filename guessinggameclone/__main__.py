@@ -1,4 +1,4 @@
-from . guessingGame import GuessingGame
+from .guessingGameClone import GuessingGame
 
 def main():
     print("Welcome to the guessing game!")
